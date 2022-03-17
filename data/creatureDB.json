@@ -1,0 +1,14 @@
+{
+    "female" : {
+        "infancy":["Riboputchi"],
+        "rebel":["Yumehotchi", "Pyokokotchi"],
+        "puberty":["Hanbunkotchi","Penribotchi","Terukerotchi","Kurupoyotchi","Mettotchi","Mokofuritchi"],
+        "friend":["Lovelitchi","Memetchi","Nijifuwatchi","Pompomtchi","Watawatatchi"]
+    },
+    "male" : {
+        "infancy":["Karaputchi"],
+        "rebel":["Meriritchi", "Mokukumotchi"],
+        "puberty":["Hanbunkotchi","Penribotchi","Terukerotchi","Kurupoyotchi","Mettotchi","Mokofuritchi"],
+        "friend":["Mametchi","Kuromametchi","Kuchipatchi","Kikitchi","Gozarutchi"]
+    }
+}

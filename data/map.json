@@ -1,0 +1,34 @@
+{
+        "타마호텔":{
+            "id":"hotel",
+            "detail":[{"id":"main","name":"호텔 정원"},{"id":"propose","name":"프로포즈"},{"id":"takecare","name":"맡기기"}]
+        },
+        "미식가의 거리":{
+            "id":"gourmet",
+            "detail":[{"id":"main","name":"광장"},{"id":"store","name":"스토어"},{"id":"propose","name":"프로포즈"}]
+        },
+        "타마농장":{
+            "id":"farm",
+            "detail":[{"id":"main","name":"광장"},{"id":"store","name":"스토어"},{"id":"else","name":"나의 농장"},{"id":"propose","name":"프로포즈"}]
+        },
+        "장난감 공원":{
+            "id":"toy",
+            "detail":[{"id":"main","name":"놀이터"},{"id":"store","name":"토이팩토리"},{"id":"propose","name":"프로포즈"}]
+        },
+        "퓨로랜드":{
+            "id":"puro",
+            "detail":[{"id":"main","name":"광장"},{"id":"store","name":"굿즈샵"},{"id":"else","name":"퍼레이드"},{"id":"propose","name":"프로포즈"}]
+        },
+        "마리랜드":{
+            "id":"mari",
+            "detail":[{"id":"main","name":"광장"},{"id":"store","name":"마리샵"},{"id":"propose","name":"프로포즈"}]
+        },
+        "별의 세계":{
+            "id":"star",
+            "detail":[{"id":"main","name":"광장"},{"id":"store","name":"구름가게"},{"id":"propose","name":"프로포즈"}]
+        },
+        "딸기왕국":{
+            "id":"strawberry",
+            "detail":[{"id":"main","name":"딸기광장"},{"id":"store","name":"딸기샵"},{"id":"party","name":"딸기파티"},{"id":"propose","name":"프로포즈"}]
+        }
+}
