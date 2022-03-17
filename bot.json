@@ -1,5 +1,5 @@
 {
-    "main": "tamagotchi.js",
+    "main": "index.js",
     "option": {
         "apiLevel": 1,
         "useUnifiedParams": false,
